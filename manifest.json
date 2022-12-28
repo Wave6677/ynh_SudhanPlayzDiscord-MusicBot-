@@ -6,7 +6,7 @@
         "en": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! ",
     },
     "version": "1.0~ynh1",
-    "url": "https://github.com/SudhanPlayz/Discord-MusicBot,
+    "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
     "upstream": {
         "license": "free",
         "website": "https://musicbot.darrenofficial.com/",
